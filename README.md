@@ -12,11 +12,13 @@
 * Flask, Flask-WTF, BeautifulSoup, Gensim, Transformers, Bootstrap and Google CloudBuild for continuous deployment
 
 ## **4. Input/Output**
-![jnfv](https://user-images.githubusercontent.com/83897460/207541136-aff34411-7fa1-4a3b-8cd3-3c38d384aada.png)
-![mfnv](https://user-images.githubusercontent.com/83897460/207541235-974d4075-5e0d-41b9-84e3-16e345a0d5cc.png)
-
+![image](https://user-images.githubusercontent.com/83897460/207547515-ee2ab6d8-3735-492d-a56d-2cb7d8992c78.png)
 
 ## **5. Live Link**
 * __https://nlp-summarizer.azurewebsites.net__
+
+## **6. Interface**
+![image](https://user-images.githubusercontent.com/83897460/207547304-46d494d8-8ddd-45f7-b533-8414fae035d7.png)
+
 
 
